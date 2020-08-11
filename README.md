@@ -1,2 +1,3 @@
-# GuiaTuristicoWebsite
-Este projeto foi desenvolvido como trabalho do 1° Trimestre, na disciplina de programação web I. 
+# Website Guia Turístico
+Este projeto foi desenvolvido pela aluna Priscila Zeferino como trabalho final do 1° Trimestre para a disciplina de Programação Web I. EMI - INFO / IFRS Osório 2018.
+
