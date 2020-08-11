@@ -1,0 +1,160 @@
+/*Do body ao buttonlink before o codigo é usado em grande parte das páginas*/
+
+/*Utilizado no body de todas as paginas*/
+body
+{
+	margin: 0px auto;
+	padding: 0px;
+	font-family: 'Indie Flower', cursive;
+	text-align: justify;
+	height:27.5em;
+	width:55em;
+	position: relative;
+	background: #4383ef;
+}
+
+/*Utilizado no h1 de todas as paginas, transforma todas as letras em maisculo, e altera a font family da letra*/
+h1	
+{
+	text-transform: uppercase;
+	font-family: 'Varela Round', sans-serif;
+}
+/*Utilizado no p de todas as paginas, altera a font family e o tamanho em todas as páginas*/
+p
+{
+  	font-family: 'Indie Flower', cursive;
+	font-size: 20px;
+}
+
+/*Utilizado nas imagens de modo geral, exceto no logo, e nas imagens dentro de paginas de assunto*/
+/*Altera a largura e o tamanho da imagem para 50% e torna a posição dela relativa*/
+img
+{
+	width: 50%;
+	height: 50%;
+	display: block;
+	position: relative;
+}
+
+/*Altera a largura e o tamanho da imagem para 100% quando o mouse passa em cima*/
+img:hover
+{
+	top: 0;
+	width: 100%;
+	height: 100%;
+	visibility: visible;
+	z-index: 50;
+
+}
+
+/*Altera o tamanho das imagens dentro das paginas de assuntos e dicas para 10% dando espaço de 5px entre a borda e a margem, 
+fazendo flutuar a esquerda.*/
+.foto 
+{
+	float: left;
+	width: 10%;
+	height: 10%;
+	padding: 5px;
+}
+
+/*Altera o tamanho das imagens dentro das paginas de assuntos e dicas para 10% dando espaço de 5px entre a borda e a margem, 
+fazendo flutuar a esquerda.*/
+.foto:hover
+{
+	width: 50%;
+	height: 50%;
+	visibility: visible;
+	z-index: 50;
+}
+
+/*Tira a decoração underline dos links e torna todos eles pretos*/
+a
+{
+	text-decoration: none;
+	color: black;
+}
+
+/*Coloca a decoração underline dos links e torna todos eles pretos. A cor do bakground é alterada para um tom de azul.*/
+
+a:hover
+{
+	text-decoration: underline;
+	color: black;
+	background: rgb(67, 131, 239);
+
+}
+
+/*Os proximos três codigos altera o menu*/
+
+.div-menu
+{
+	padding: 5px;
+	border: 2px dashed;
+	background: rgb(140, 169, 216);
+	position: relative;
+}
+
+.div-menu img
+{
+	width: 100%;
+	height: 100%;
+}
+
+.div-menu li
+{
+	display: inline-block; 
+	list-style-type: none; 
+	margin: 1.66%; 
+	font-size: 25px; 
+	font-family: 'Pacifico', cursive;
+	position: relative;
+
+}
+
+/*Este codigo altera as bordas*/
+
+.bordas
+{
+	border: black solid 2px;
+	margin: 0px;
+	padding: 25px;
+	background: rgb(183, 201, 232);
+}
+
+/*Este codigo altera o rodapé*/
+
+
+.rodape 
+{
+	border: 2px solid black;
+	background: rgb(140, 169, 216);
+	padding: 25px;
+	margin: 0px auto;
+	position: relative;
+}
+
+/*Os proximos dois codigo altera os botões em todas as paginas com as class buttonlinknext e buttonlinkbefore*/
+
+.buttonlinknext
+{
+	float: right;
+	background: DarkCyan;
+
+}
+
+.buttonlinkbefore
+{
+	float: left;
+	background: DarkCyan;
+}
+
+/*Utilizado apenas na página contato. Faz alterações no formulario.*/
+#formulario td
+{
+	font-family: 'Indie Flower', cursive;
+	font-size: 20px;
+	padding: 5px;
+	margin: 0 auto;
+}
+
+

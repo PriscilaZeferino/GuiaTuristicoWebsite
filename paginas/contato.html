@@ -1,0 +1,147 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8">
+	<title>Dicas para viagem</title>
+	
+	<!--O código a seguir pega as informações da página de estilo fazendo com que o menu e todo o css seja padronizado em todas as paginas-->
+
+	<link rel="stylesheet" type="text/css" href="../css/estilo.css">
+
+	<!--Este código pega as fontes do google fontes que são utilizadas na página-->
+
+	<link href="https://fonts.googleapis.com/css?family=Indie+Flower|Pacifico" rel="stylesheet"> 	
+
+	<!--Este é o menu, todos os titulos do menu são hiperlinks que redirecionam para outras páginas em especifico-->
+	
+	<div class= "div-menu">
+		<ul>
+		<li><img src="../imagens/logo.png"></li>
+		<li><a href="../index.html">Pagina Inicial</a></li>
+		<li><a href="dicas.html">Dicas</a></li>
+		<li><a href="galeria.html">Galeria de fotos</a></li>
+		<li><a href="contato.html"> Contato</a></li>
+		</ul>
+	</div>
+
+</head>
+<body>
+
+	<div class="bordas">
+	<!--Titulo do cabeçalho da página, aparece logo abaixo ao menu -->
+	<h1>Agende sua viagem com a gente</h1>
+
+	<!-- Aqui é aberto a tag formulario onde dados são pedidos ao usuarios, sendo alguns campos obrigatórios e outros não. O tamanho das caixa por quantidade de caracteres, e a quantidade minima e/ou maxima são padronizados em todos os inputs da pagina. -->
+	<div id="formulario">	
+	<form action="processar_formulario.php" method="get">
+	<!--Aqui cria uma tabela, onde todos os campos de input e seus nomes mostrados aos usuários é utlizado.-->
+	<table>
+
+		<div>
+			<!--O tr cria uma linha e o td cria uma coluna -->
+			<tr>
+				<!--Input's do tipo texto. -->
+				<td>
+					<label>Nome: <input type="text" name="nome" size="30" minlength="3" maxlength="50" required placeholder="Digite seu nome aqui"></label> <label>Sobrenome: <input type="text" name="sobrenome" size="30" minlength="3" maxlength="50"></label>
+
+				</td>
+			</tr>				
+		</div>
+
+		<div>
+			<tr>
+			<!--Input's do tipo email e do tipo texto, respectivamente. -->
+			<td><label>Email: <input type="email" name="email" size="30" minlength="3" maxlength="50" required placeholder="Digite seu email aqui"></label> <label>Telefone: <label><input type="text" name="telefone" size="30" minlength="3" maxlength="50"></label></td>
+			</tr>
+		</div>
+
+		<div>
+			<tr>
+			<!--Input's do tipo date. -->
+			<td>
+					<label>Data de inicio: <input type="date" name="datainicio"></label> 
+					<label>Data de fim: <input type="date" 	name="datafim"></label>
+				</td>
+			</tr>
+		</div>
+		
+		<div>
+		<tr>
+			<!--Input's do tipo radio button de seleção unica. -->
+			<td>
+				<label>Viajar com a familia<input type="radio" name="radio_pacote" value="family" required></label> <label>Viajar sozinho <input type="radio" name="radio_pacote" value="alone" required></label>
+			</td>
+		</tr>	
+		</div>
+
+		<div>
+			<tr>
+				<!--Input's do tipo radio button de seleção multipla, se conter mais caixas. -->
+				<td><label>Concordo com termos <input type="checkbox" name="concordo" required></label></td>
+			</tr>
+		</div>
+
+		<div>
+		<tr>
+			<td>
+				<!--Input's do tipo select de seleção unicam, podendo ser do tipo multipla, se acrescentar o multiple logo após o nome do select. -->
+				<label> Selecione o continente
+					<select name="continente">
+						<option disabled selected> Continentes</option>
+						<option value="América">
+						América
+						</option>
+						<option value="Asia">
+							Asia
+						</option>
+						<option value="Africa">
+							Africa
+						</option>
+						<option value="Oceania">
+							Oceania
+						</option>
+						<option value="Ártico">
+							Ártico
+						</option>	
+					</select>
+				</label>
+			</td>
+		</tr>
+		</div>
+		
+		<div>
+			<tr>     
+				<td colspan="2">
+					<label>Escreva-nos uma mensagem: <textarea name="comentario" rows="10" cols="50"></textarea></label>
+				</td>    
+			</tr>
+		</div>
+		<div>
+			<tr>
+				<td>
+					<!--Botao com redirecionamento de pagina-->
+					<div id="botao">
+						<button>
+							<a href="mensagem.html" target="_blank"> Enviar </a>
+						</button>
+					</div>
+				</td>
+			</tr>
+	</table>
+	</div>
+	</form>
+	</div>
+
+	<div class="rodape">
+		<p><i>@Copyright © 2018 - Todos os direitos reservados - Guia Turístico </i></p>
+		
+		<p><a href="../termosdeuso.html"> Termos de uso</a></p>
+
+		<p><a href="../politicadeprivacidade.html">Politica de privacidade</a></p>
+
+		<p> Idioma:<a href="language.html"> Português </a></p>
+	</div>
+
+
+</body>
+</html>
