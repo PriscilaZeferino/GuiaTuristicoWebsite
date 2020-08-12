@@ -1,13 +1,13 @@
-# 🌎 Guia Turístico - Website
+# 🌎 GUIA TURÍSTICO -W WEBSITE
 
 ### O Guia Turistico é um projeto simples que foi desenvolvido como trabalho final do 1° Trimestre para a disciplina de Programação Web I. EMI - INFO / IFRS Osório 2018 utilizando os conceitos apresentados em aula, basicamente, HTML e CSS.
 
-# 🚀 OBJETIVO: 
+### 🚀 OBJETIVO: 
 
 <p align="justify"> O projeto tinha como objetivo tanto praticar quanto demonstrar que nós tinhamos absorvidos durante todo o trimestre. Para cumprir com os requisitos básicos, eu tive a ideia de criar um site turístico simples com poucas páginas e utilizando todo o conhecimento obtido. </p>
 
 
-# 💻 FERRAMENTAS UTILIZADAS:
+## 💻 FERRAMENTAS UTILIZADAS:
 
 - HTML
 - CSS
@@ -18,7 +18,7 @@
 - Descompacte o arquivo
 - Abra o index.html no navegador
 
-# 💡 STATUS DO PROJETO: Concluído 
+## 💡 STATUS DO PROJETO: Concluído 
 
 ## 📃 LICENÇA
 Este projeto está sob a licença <a href="https://github.com/PriscilaZeferino/Proffy/blob/master/LICENSE">MIT</a>
