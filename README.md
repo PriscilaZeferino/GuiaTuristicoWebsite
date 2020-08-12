@@ -1,6 +1,6 @@
 # 🌎 Guia Turístico - Website
 
-### O Guia Turistico é um projeto simples, o qual, foi desenvolvido como trabalho final do 1° Trimestre para a disciplina de Programação Web I. EMI - INFO / IFRS Osório 2018 utilizando os conceitos apresentados em aula, basicamente, HTML e CSS.
+### O Guia Turistico é um projeto simples, qual, foi desenvolvido como trabalho final do 1° Trimestre para a disciplina de Programação Web I. EMI - INFO / IFRS Osório 2018 utilizando os conceitos apresentados em aula, basicamente, HTML e CSS.
 
 # 🚀 OBJETIVO: 
 
