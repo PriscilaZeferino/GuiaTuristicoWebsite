@@ -1,4 +1,4 @@
-# 🌎 GUIA TURÍSTICO WEBSITE
+# Guia Turístico Website
 
 ## Resumo
 
@@ -8,7 +8,7 @@ O Guia Turístico é um projeto simples desenvolvido como trabalho final do 1° 
 
 - [Objetivo](#objetivo)
 - [Ferramentas Utilizadas](#ferramentas-utilizadas)
-- [omo executar este projeto no navegador](#como-executar-este-projeto-no-navegador)
+- [Como executar este projeto no navegador](#como-executar-este-projeto-no-navegador)
 - [Status do Projeto](#status-do-projeto)
 - [Licença](#licença)
 - [Autora](#autora)
