@@ -1,46 +1,46 @@
-# 🌎 GUIA TURÍSTICO -W WEBSITE
+# 🌎 GUIA TURÍSTICO WEBSITE
 
-### O Guia Turistico é um projeto simples que foi desenvolvido como trabalho final do 1° Trimestre para a disciplina de Programação Web I. EMI - INFO / IFRS Osório 2018 utilizando os conceitos apresentados em aula, basicamente, HTML e CSS.
+## Resumo
 
+O Guia Turístico é um projeto simples desenvolvido como trabalho final do 1° Trimestre para a disciplina de Programação Web I. EMI - INFO / IFRS Osório 2018, utilizando os conceitos apresentados em aula, principalmente HTML e CSS.
 
-Tabela de conteúdos
-=================
+## Sumário
 
-<p align="center">
- <a href="#-objetivo">Objetivo</a> •
- <a href="#-ferramentas-utilizadas">Ferramentas utilizadas</a> • 
- <a href="#-como-usar">Como usar</a> • 
- <a href="#-licença">Licença</a> • 
- <a href="#-autora">Autora</a>
+- [Objetivo](#objetivo)
+- [Ferramentas Utilizadas](#ferramentas-utilizadas)
+- [omo executar este projeto no navegador](#como-executar-este-projeto-no-navegador)
+- [Status do Projeto](#status-do-projeto)
+- [Licença](#licença)
+- [Autora](#autora)
 
-</p>
+## Objetivo 🚀
 
-### 🚀 OBJETIVO: 
+O objetivo do projeto era praticar e demonstrar o conhecimento adquirido durante o trimestre. Para atender aos requisitos básicos, foi desenvolvido um site turístico simples com poucas páginas, utilizando todo o conhecimento obtido.
 
-<p align="justify"> O projeto tinha como objetivo tanto praticar quanto demonstrar que nós tinhamos absorvidos durante todo o trimestre. Para cumprir com os requisitos básicos, eu tive a ideia de criar um site turístico simples com poucas páginas e utilizando todo o conhecimento obtido. </p>
-
-
-## 💻 FERRAMENTAS UTILIZADAS:
+## Ferramentas Utilizadas 💻
 
 - HTML
 - CSS
 
-## 📢 COMO USAR:
+## Como executar este projeto no navegador  📢
 
-- Faça o dowload do repositório em sua máquina
-- Descompacte o arquivo
-- Abra o index.html no navegador
+1. Faça o download do repositório para sua máquina.
+2. Descompacte o arquivo.
+3. Abra o arquivo `index.html` em um navegador web.
 
-## 💡 STATUS DO PROJETO: Concluído 
+## Status do Projeto 💡
 
-## 📃 LICENÇA
-Este projeto está sob a licença <a href="https://github.com/PriscilaZeferino/Proffy/blob/master/LICENSE">MIT</a>
+Concluído
 
-## 👧🏻 AUTORA
+## Autora 👧🏻
 
- Feito com 🧡 por Priscila Zeferino.
- 
-##### ✉ Contato:
+Feito com 🧡 por Priscila Zeferino.
 
-##### Linkedin: <a href="https://www.linkedin.com/in/priscila-zeferino-594b5b175/"> Priscila Zeferino</a>
-##### E-mail: priscila.zeferino23@gmail.com
+### Contato ✉
+
+- Linkedin: [Priscila Zeferino](https://www.linkedin.com/in/priscila-zeferino-594b5b175/)
+- E-mail: priscila.zeferino23@gmail.com
+
+## Licença 📃
+
+Este projeto está sob a [licença MIT](https://github.com/PriscilaZeferino/Proffy/blob/master/LICENSE).
