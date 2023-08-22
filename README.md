@@ -30,12 +30,9 @@ O objetivo do projeto era praticar e demonstrar o conhecimento adquirido durante
 3. Abra o arquivo `index.html` em um navegador web.
 
 ## Status do Projeto
-
-## Status do Projeto 🚀
 O projeto Guia Turístico Website encontra-se na versão de trabalho final do 1° Trimestre para a disciplina de Programação Web I. EMI - INFO / IFRS Osório 2018. Novas funcionalidades e melhorias podem ser implementadas no futuro, dependendo do interesse e continuidade do desenvolvimento.
 
 ## Autora
-
 Feito com 🧡 por Priscila Zeferino.
 
 ## Informações para contato
@@ -44,5 +41,4 @@ Feito com 🧡 por Priscila Zeferino.
 - E-mail: priscila.zeferino23@gmail.com
 
 ## Licença
-
 Este projeto está sob a [licença MIT](https://github.com/PriscilaZeferino/Proffy/blob/master/LICENSE).
