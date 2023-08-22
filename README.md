@@ -36,7 +36,7 @@ Concluído
 
 Feito com 🧡 por Priscila Zeferino.
 
-### Contato ✉
+### Informações para contato ✉
 
 - Linkedin: [Priscila Zeferino](https://www.linkedin.com/in/priscila-zeferino-594b5b175/)
 - E-mail: priscila.zeferino23@gmail.com
